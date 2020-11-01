@@ -49,3 +49,6 @@ jmp label1
 - [x] using Win32 Api
 - [x] use Functions
 - [ ] Release for MacOS , Linux 
+
+## Development 
+Created by <b>«Hascal Development Team»<b> with collaboration with <b>«Maj Arts»</b>
